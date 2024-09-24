@@ -1,3 +1,12 @@
+---
+permalink: /
+title: " "
+author_profile: true
+redirect_from: 
+  - /course/
+  - /course.html
+---
+
 Course work
 =====
 * Computational Complexity
