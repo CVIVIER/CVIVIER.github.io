@@ -19,5 +19,5 @@ Research experience
   * [Theory Group](https://tcs.nju.edu.cn/)
   * Supervisor: [Prof. Penghui Yao](http://penghuiyao.info/)
     
-Full [CV](https://cvivier.github.io/files/cv.pdf)
+Full [CV](https://cvivier.github.io/files/CV.pdf)
 ======
