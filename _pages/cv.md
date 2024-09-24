@@ -15,7 +15,7 @@ Education
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Fall 2023- (in progress): Research on Strong Subadditivity of Quantum Information
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
