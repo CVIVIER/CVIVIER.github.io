@@ -15,9 +15,10 @@ Education
 
 Research experience
 ======
-*  Fall 2023- (in progress): Research on Strong Subadditivity of Quantum Information
-  * [Theory Group](https://tcs.nju.edu.cn/)
-  * Supervisor: [Prof. Penghui Yao](http://penghuiyao.info/)
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
 Full [CV](https://cvivier.github.io/files/cv.pdf)
 ======
