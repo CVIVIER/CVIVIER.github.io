@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of Computer Science](https://cs.nju.edu.cn/main.htm/), [Nanjing University](https://www.nju.edu.cn/)
+I'm a fourth year undergraduate student from [School of Computer Science](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/)
 
 A data-driven personal website
 ======
