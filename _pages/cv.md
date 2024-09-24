@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 *  fall 2023- (in progress): Research on Strong Subadditivity of Quantum Information
-  * [Theory Group](https://tcs.nju.edu.cn/) in the [School of Computer Science](https://cs.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn/)
+  * [Theory Group](https://tcs.nju.edu.cn/)
   * Supervisor: [Prof. Penghui Yao](http://penghuiyao.info/)
 
 Full [CV](https://cvivier.github.io/files/cv.pdf)
