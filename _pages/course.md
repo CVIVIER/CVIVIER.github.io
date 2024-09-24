@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: " "
+layout: archive
+title: "Course"
+permalink: /course/
 author_profile: true
-redirect_from: 
-  - /course/
-  - /course.html
+redirect_from:
+  - /
 ---
 
 Course work
