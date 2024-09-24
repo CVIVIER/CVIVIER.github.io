@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 * Fall 2023- (in progress): Research on Strong Subadditivity of Quantum Information
-  * Github University
+  * [Theory Group](https://tcs.nju.edu.cn/)
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
