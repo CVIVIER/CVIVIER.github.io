@@ -15,7 +15,7 @@ Education
 
 Research experience
 ======
-*  fall 2023- (in progress): Research on Strong Subadditivity of Quantum Information
+*  Fall 2023- (in progress): Research on Strong Subadditivity of Quantum Information
   * [Theory Group](https://tcs.nju.edu.cn/)
   * Supervisor: [Prof. Penghui Yao](http://penghuiyao.info/)
 
