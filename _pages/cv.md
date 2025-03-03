@@ -15,10 +15,14 @@ Education
 
 Research experience
 ======
-* Fall 2023- (in progress): Research on Strong Subadditivity of Quantum Information
+* Fall 2023- Fall 2024: Research on Strong Subadditivity of Quantum Information
   * [Theory Group](https://tcs.nju.edu.cn/)
   * Supervisor: [Prof. Penghui Yao](http://penghuiyao.info/)
   * [Research defense PPT](https://cvivier.github.io/files/research defense.pdf)
+* Spring 2025- (in progress): Research on Chaitin's Constant
+  * Supervisor: [Prof. Liang Yu](https://sites.google.com/view/yuliang/main)
+
+
 
 Full [CV](https://cvivier.github.io/files/CV.pdf)
 ======
