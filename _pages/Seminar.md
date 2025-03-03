@@ -10,3 +10,4 @@ redirect_from:
 
 Kolmogorov Complexity
 =====
+* see recording of the seminar [here]
