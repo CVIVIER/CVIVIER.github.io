@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Seminar"
+title: ""
 permalink: /Seminar/
 author_profile: true
+redirect_from:
+  - /
 ---
-
 {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 
 Kolmogorov Complexity
 =====
